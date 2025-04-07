@@ -1,5 +1,5 @@
 ![Banner Profile](https://github.com/user-attachments/assets/4f322de8-730d-4ef3-9a20-94bcf30d938a)
-<h1 align="center">Hi , I am Sebastian Rodriguez👋🏻 </h1> 
+<h1 align="center">Hola , soy Sebastian Rodriguez👋🏻 </h1> 
 
 Desarrollador web apasionado por crear soluciones funcionales y atractivas. Manejo tecnologías como React y Django y siempre estoy abierto a aprender algo nuevo. Sueño con adentrarme en la inteligencia artificial y contribuir con proyectos innovadores.
 
